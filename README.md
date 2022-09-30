@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🖥️ I'm a computer science student<br>🔭 I'm an aspiring software engineer<br>🧠 I'm currently learning Python and C++<br>💬 I'm open to learn and help in projects<br>⚡ Fun fact: I'm in the Top 1% on TryHackMe
+🖥️ Computer science student<br>🔭 Aspiring software engineer<br>🧠 Currently learning Python and C++<br>💬 Open to learn and help in projects<br>⚡ Fun fact: I'm in the Top 1% on TryHackMe
 
 
 ## 🌐 Socials:
