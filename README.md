@@ -12,6 +12,6 @@
 ## Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wayahlife&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## <p align="center">Favorite Quotes:</p>
+##
 <p align="center">"Those who work the hardest usually complain the least." -Ryan Cohen<br />
 "He who sells what isn't his'n, must buy it back or go to prison." -Daniel Drew</p>
