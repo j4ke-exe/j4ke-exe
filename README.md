@@ -14,4 +14,4 @@
 
 ## Favorite Quotes:
 "Those who work the hardest usually complain the least." -Ryan Cohen<br />
-"He who sells what isn't his'n, Must buy it back or go to prison." -Daniel Drew
+"He who sells what isn't his'n, must buy it back or go to prison." -Daniel Drew
