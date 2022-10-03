@@ -1,5 +1,6 @@
-# Hey, I'm Jake 👋
+# <div align="center">Hey, I'm Jake 👋
 🖥️ Computer science student<br>🔭 Aspiring software engineer<br>🧠 Currently learning C++ and Python<br>💬 Open to learn and help with projects<br>⚡ Fun fact: I'm in the Top 1% on TryHackMe
+</div>
 
 
 ## Connect With Me:
