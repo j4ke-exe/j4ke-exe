@@ -1,4 +1,4 @@
-## Hey, I'm Jake 👋
+# Hey, I'm Jake 👋
 🖥️ Computer science student<br>🔭 Aspiring software engineer<br>🧠 Currently learning C++ and Python<br>💬 Open to learn and help with projects<br>⚡ Fun fact: I'm in the Top 1% on TryHackMe
 
 
@@ -11,6 +11,4 @@
 
 
 ## Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Wayahlife&theme=tokyonight&hide_border=false)
-<br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wayahlife&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
