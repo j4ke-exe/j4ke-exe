@@ -1,5 +1,5 @@
 # Hey, I'm Jake 👋
-🖥️ Computer science student<br>🔭 Aspiring software engineer<br>🧠 Currently learning C++ and Python<br>💬 Open to learn and help with projects<br>⚡ Fun fact: I'm in the Top 1% on TryHackMe
+🖥️ Computer science student<br>🔭 Aspiring software engineer<br>🧠 Currently learning C++ and Python<br>💬 Open to learn and help with projects<br>⚡ Fun fact: I'm in the Top 1% on TryHackMe<br>📜 Certified Ethical Hacker, Ethereum Expert, and Solidity Developer
 
 
 ## Connect With Me:
