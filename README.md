@@ -2,10 +2,9 @@
 Aspiring software engineer and penetration tester. I'm currently studying Computer Science with a focus on Cybersecurity Engineering. In my spare time, I enjoy CTFs, Codecademy, and Web 3 development.
 
 * 🖥️  Computer science student<br>
-* 🔭  Aspiring software engineer<br>
 * 🧠  Currently learning C++ and Python<br>
-* 🤝 I'm open to collaborating on Python projects<br>
-* ⚡  Random fact: I'm in the Top 1% on TryHackMe<br>
+* 🤝 Open to collaborating on Python projects<br>
+* ⚡  Random Fact: I'm in the Top 1% on TryHackMe<br>
 * 📜  Certified Ethical Hacker, Ethereum Expert, and Solidity Dev
 
 
