@@ -21,9 +21,6 @@ Aspiring software engineer and penetration tester. I'm currently studying Comput
 <p align="center">"Those who work the hardest usually complain the least." -Ryan Cohen<br>
 "He who sells what isn't his'n, must buy it back or go to prison." -Daniel Drew<br>
 <br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/Wayahlife.png" alt="TryHackMe">
-<br>
-<br>
 <a href="https://www.linkedin.com/in/jgarrison741" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &nbsp; <a href="https://www.twitter.com/wayahlife" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/wayahlife?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a></p>
