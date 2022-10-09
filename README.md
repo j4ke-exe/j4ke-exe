@@ -15,7 +15,7 @@ Aspiring software engineer and penetration tester. I'm currently studying Comput
 
 <br>
 <div align="center">
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wayahlife&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wayahlife&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 <br>
 <p align="center">"Those who work the hardest usually complain the least." -Ryan Cohen<br>
