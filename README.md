@@ -1,7 +1,7 @@
 # Hey, I'm Jake.
 Aspiring software engineer and penetration tester. I'm currently studying Computer Science with a focus on Cybersecurity Engineering. In my spare time, I enjoy CTFs, Codecademy, and Web 3 development.
 
-* 🖥️  Computer science student<br>
+* 🖥️  Computer science major<br>
 * 🧠  Currently learning Python<br>
 * 🤝 Open to collaborating on Python projects<br>
 * ⚡  Random Fact: I'm in the Top 1% on TryHackMe<br>
