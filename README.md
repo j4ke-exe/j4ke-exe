@@ -1,5 +1,5 @@
 # Hey, I'm Jake.
-Aspiring software engineer and penetration tester. I'm currently studying Computer Science with a focus on Cybersecurity Engineering. In my spare time, I enjoy CTFs, Codecademy, and Web 3 development.
+Aspiring software engineer and penetration tester. I'm currently studying Computer Science with a focus on Cybersecurity Engineering. In my spare time, I enjoy CTFs, Codecademy, and working out.
 
 * 🖥️  Computer science major<br>
 * 🧠  Currently learning Python<br>
