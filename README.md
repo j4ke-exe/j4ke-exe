@@ -2,8 +2,9 @@
  <img class="img" src="https://media-exp1.licdn.com/dms/image/D4E16AQGmJbUZ8jkhZw/profile-displaybackgroundimage-shrink_350_1400/0/1666232085833?e=1671667200&v=beta&t=nXJraXlxg7IZgXkf7ZjFEzv2F0nr7_sbyhj7RYDTyE8" />
 </div>
 <br>
-Aiming to be a software engineer and penetration tester. I'm currently pursuing a degree in Computer Science with a concentration in Cybersecurity Engineering. CTFs, Codecademy, and working out are some of my hobbies.
+Aiming to be a software engineer and penetration tester. I'm currently pursuing a degree in Computer Science with a concentration in Cybersecurity Engineering. CTFs, Codecademy, and working out are some of my hobbies.<br>
 <br>
+
 * 🖥️  Computer science major<br>
 * 🧠  Currently learning Python<br>
 * 🤝 Open to collaborating on Python projects<br>
