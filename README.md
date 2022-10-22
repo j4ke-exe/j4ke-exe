@@ -3,7 +3,7 @@
 </div>
 <br>
 Aiming to be a software engineer and penetration tester. I'm currently pursuing a degree in Computer Science with a concentration in Cybersecurity Engineering. CTFs, Codecademy, and working out are some of my hobbies.
-
+<br>
 * 🖥️  Computer science major<br>
 * 🧠  Currently learning Python<br>
 * 🤝 Open to collaborating on Python projects<br>
