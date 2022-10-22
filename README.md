@@ -5,7 +5,7 @@
 Aiming to be a software engineer and penetration tester. I'm currently pursuing a degree in Computer Science with a concentration in Cybersecurity Engineering. CTFs, Codecademy, and working out are some of my hobbies.<br>
 <br>
 
-* 🖥️  Computer science major<br>
+* 🖥️  Computer Science Major<br>
 * 🧠  Currently learning Python<br>
 * 🤝 Open to collaborating on Python projects<br>
 * ⚡  Random Fact: I'm in the Top 1% on TryHackMe<br>
