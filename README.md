@@ -9,7 +9,7 @@ Aiming to be a software engineer and penetration tester. I'm currently pursuing 
 * 🧠  Currently learning Python<br>
 * 🤝 Open to collaborating on Python projects<br>
 * ⚡  Random Fact: I'm in the Top 1% on TryHackMe<br>
-* 📜  Certified Ethical Hacker, Ethereum Expert, and Solidity Dev
+* 📜  Certified Ethical Hacker. Studying for TCM Security PNPT.
 
 
 ##
