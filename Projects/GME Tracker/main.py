@@ -1,4 +1,5 @@
 import os
+import time
 import yfinance as yf
 import matplotlib.pyplot as plt
 import mplfinance as mpf
@@ -74,31 +75,28 @@ try:
 
         # Show the plot
         plt.show()
-
-        # Option
-        print("\nSelect another option? (y/n)")
-        option = input("Enter an option: ")
-        if option == "y" or option == "Y":
-            os.system("python3 main.py")
+        os.system("python3 main.py")
     
     elif choice == 4:
         # Open the subreddit in a new window
         os.system("start http://www.gme.fyi")
-
-        print("\nSelect another option? (y/n)")
-        option = input("Enter an option: \n")
-        if option == "y" or option == "Y":
-            os.system("python3 main.py")
+        os.system("python3 main.py")
 
     elif choice == 5:
 
         # Open the subreddit in a new window
         os.system("start https://www.reddit.com/r/Superstonk/")
+        os.system("python3 main.py")
+    
+    elif choice == 6:
+        # Exit the program
+        print("""\n
+        Hedgies R' Fuk. 
+        Ken Griffin lied under oath. 
+        DTCC committed international securities fraud.\n""")
+        time.sleep(5)
+    os.system("cls")
+    exit()
 
-        print("\nSelect another option? (y/n)")
-        option = input("Enter an option: \n")
-        if option == "y" or option == "Y":
-            os.system("python3 main.py")
-
-except (KeyboardInterrupt):
-    print("\nKeyboard interrupt detected. Hedgies R' Fuk.\n")
+except (KeyboardInterrupt, SystemExit, ValueError, TypeError):
+    print("\nExiting... Hedgies R' Fuk.\n")
