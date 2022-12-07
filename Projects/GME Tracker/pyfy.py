@@ -4,11 +4,11 @@ import yfinance as yf
 # Resize the terminal window
 if os.name == "nt":
     # Windows
-    os.system("mode con: cols=73 lines=50")
+    os.system("mode con: cols=72 lines=50")
 
 # GameStop Banner
 banner = """
--------------------------------------------------------------------------
+------------------------------------------------------------------------
 
   ▄████  ▄▄▄       ███▄ ▄███▓▓█████   ██████ ▄▄▄█████▓ ▒█████   ██▓███  
  ██▒ ▀█▒▒████▄    ▓██▒▀█▀ ██▒▓█   ▀ ▒██    ▒ ▓  ██▒ ▓▒▒██▒  ██▒▓██░  ██▒
@@ -21,7 +21,7 @@ banner = """
       ░       ░  ░       ░      ░  ░      ░               ░ ░           
                                                                         
                                                         By: Wayahlife
--------------------------------------------------------------------------
+------------------------------------------------------------------------
 """
 
 # Print the banner to the console
@@ -37,4 +37,4 @@ try:
         print(f"The current price of GME is ${price}")
 # Handle keyboard interrupt
 except KeyboardInterrupt:
-    print("Keyboard interrupt detected. Hedgies R' Fuk.")
+    print("\nKeyboard interrupt detected. Hedgies R' Fuk.\n")
