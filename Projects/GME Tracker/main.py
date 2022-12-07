@@ -48,8 +48,8 @@ choice = int(input("Enter your choice: "))
 try:
     if choice == 1:
         # Get the current price of the stock
-        os.system("start python3 gmePrice.py")
-        os.system("python3 pyfy.py")
+        os.system("start python3 price.py")
+        os.system("python3 main.py")
 
     elif choice == 2:
 
@@ -61,7 +61,7 @@ try:
         print("\nSelect another option? (y/n)")
         option = input("Enter an option: ")
         if option == "y" or option == "Y":
-            os.system("python3 pyfy.py")
+            os.system("python3 main.py")
 
     elif choice == 3:
 
@@ -78,7 +78,7 @@ try:
         print("\nSelect another option? (y/n)")
         option = input("Enter an option: ")
         if option == "y" or option == "Y":
-            os.system("python3 pyfy.py")
+            os.system("python3 main.py")
 
     elif choice == 4:
 
@@ -88,6 +88,6 @@ try:
         print("\nSelect another option? (y/n)")
         option = input("Enter an option: \n")
         if option == "y" or option == "Y":
-            os.system("python3 pyfy.py")
+            os.system("python3 main.py")
 except (KeyboardInterrupt):
     print("\nKeyboard interrupt detected. Hedgies R' Fuk.\n")
