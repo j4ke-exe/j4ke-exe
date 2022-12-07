@@ -89,5 +89,5 @@ try:
         option = input("Enter an option: \n")
         if option == "y" or option == "Y":
             os.system("python3 pyfy.py")
-except (KeyboardInterrupt, ValueError, TypeError, NameError):
+except (KeyboardInterrupt):
     print("\nKeyboard interrupt detected. Hedgies R' Fuk.\n")
