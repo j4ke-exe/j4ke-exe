@@ -38,8 +38,9 @@ gme = yf.Ticker("GME")
 print("1. Get the current price of GME.")
 print("2. Get the historical data of GME.")
 print("3. Plot the historical data of GME.")
-print("4. Go to r/Superstonk.")
-print("5. Exit\n")
+print("4. View the GME DD library.")
+print("5. Visit HQ r/Superstonk.")
+print("6. Exit\n")
 
 # Get the user's choice
 choice = int(input("Enter your choice: "))
@@ -79,8 +80,17 @@ try:
         option = input("Enter an option: ")
         if option == "y" or option == "Y":
             os.system("python3 main.py")
-
+    
     elif choice == 4:
+        # Open the subreddit in a new window
+        os.system("start http://www.gme.fyi")
+
+        print("\nSelect another option? (y/n)")
+        option = input("Enter an option: \n")
+        if option == "y" or option == "Y":
+            os.system("python3 main.py")
+
+    elif choice == 5:
 
         # Open the subreddit in a new window
         os.system("start https://www.reddit.com/r/Superstonk/")
@@ -89,5 +99,6 @@ try:
         option = input("Enter an option: \n")
         if option == "y" or option == "Y":
             os.system("python3 main.py")
+
 except (KeyboardInterrupt):
     print("\nKeyboard interrupt detected. Hedgies R' Fuk.\n")
