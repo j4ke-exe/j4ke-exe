@@ -1,5 +1,5 @@
 <div align="center">
- <img class="img" src="https://media.licdn.com/dms/image/D4E16AQGmJbUZ8jkhZw/profile-displaybackgroundimage-shrink_350_1400/0/1666232085833?e=1677110400&v=beta&t=9c7N6jk6GtEAKNnw7alo4XLBFvyhbgV77NSMY06Od_s" />
+ <img class="img" src="[https://media.licdn.com/dms/image/D4E16AQGmJbUZ8jkhZw/profile-displaybackgroundimage-shrink_350_1400/0/1666232085833?e=1677110400&v=beta&t=9c7N6jk6GtEAKNnw7alo4XLBFvyhbgV77NSMY06Od_s](https://media.licdn.com/dms/image/D4E16AQGmJbUZ8jkhZw/profile-displaybackgroundimage-shrink_350_1400/0/1666232085833?e=1682553600&v=beta&t=S8IL3YD_Jiv5ZE9rFxEaBe8C3S8SouvfQR6CifbPUOE)" />
 </div>
 <br>
 Aiming to be a software engineer and penetration tester. I'm currently pursuing a degree in Computer Science with a concentration in Cybersecurity Engineering. CTFs, Codecademy, and working out are some of my hobbies.<br>
