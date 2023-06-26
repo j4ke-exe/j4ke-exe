@@ -2,15 +2,8 @@
  <img class="img" src="https://media.licdn.com/dms/image/D4E16AQGmJbUZ8jkhZw/profile-displaybackgroundimage-shrink_200_800/0/1666232085833?e=2147483647&v=beta&t=LisQGVKvuxkccOmSXdpf8s6g1MyN03gN5rkGI__SeOU" />
 </div>
 <br>
-Aiming to be a software engineer and penetration tester. I'm currently pursuing a degree in Computer Science with a concentration in Cybersecurity Engineering. CTFs, Codecademy, and working out are some of my hobbies.<br>
+Aspiring penetration tester. I'm currently pursuing a degree in Computer Science with a concentration in Cybersecurity Engineering. CTFs, Codecademy, and working out are some of my hobbies.<br>
 <br>
-
-* 🖥️  Computer Science Major<br>
-* 🧠  Currently learning Python<br>
-* 🤝 Open to collaborating on Python projects<br>
-* ⚡  Random Fact: I'm in the Top 1% on TryHackMe<br>
-* 📜  Certified Ethical Hacker. Studying for the PNPT by TCM Security.
-
 
 ##
 <div align="center">
