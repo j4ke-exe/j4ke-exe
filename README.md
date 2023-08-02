@@ -1,6 +1,3 @@
-<div align="center">
- <img class="img" src="https://media.licdn.com/dms/image/D4E16AQGmJbUZ8jkhZw/profile-displaybackgroundimage-shrink_200_800/0/1666232085833?e=2147483647&v=beta&t=LisQGVKvuxkccOmSXdpf8s6g1MyN03gN5rkGI__SeOU" />
-</div>
 <br>
 Aspiring penetration tester. I'm currently pursuing a degree in Computer Science with a concentration in Cybersecurity Engineering. CTFs, Codecademy, and working out are some of my hobbies.<br>
 <br>
