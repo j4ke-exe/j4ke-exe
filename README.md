@@ -1,5 +1,5 @@
 <br>
-Aspiring penetration tester. I'm currently pursuing a degree in Computer Science with a concentration in Cybersecurity Engineering. CTFs, Codecademy, and working out are some of my hobbies.<br>
+Aspiring penetration tester. I'm currently pursuing a degree in Computer Science with a concentration in Cybersecurity Engineering. CTFs, Blogging, and working out are some of my hobbies.<br>
 <br>
 
 ##
