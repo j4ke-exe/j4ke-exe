@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jake!</h1>
+<h1 align="center">Hey, I'm Jake!</h1>
 <h3 align="center">Computer Science Major and Aspiring Penetration Tester</h3><br>
 
 <br>
