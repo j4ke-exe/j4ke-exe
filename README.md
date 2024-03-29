@@ -1,5 +1,6 @@
 <h1 align="center">Hey, I'm Jake!</h1>
-<h3 align="center">Computer Science Major and Aspiring Penetration Tester</h3><br>
+<h3 align="center">Computer Science Major and Aspiring Penetration Tester</h3>
+<br>
 
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=j4ke-exe&show_icons=true&theme=dark&hide_border=true&bg_color=26272C&text_color=FFFFFF&cache_seconds=1&locale=en&layout=compact" alt="j4ke-exe" /></p>
