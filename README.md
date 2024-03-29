@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Major and Aspiring Penetration Tester</h3>
 <br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=j4ke-exe&show_icons=true&theme=none&hide_border=false&cache_seconds=1&locale=en&layout=compact" alt="j4ke-exe" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=j4ke-exe&show_icons=true&theme=none&hide_border=false&cache_seconds=1&locale=en&layout=compact" alt="j4ke<br>-exe" /></p><br>
 
 <p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /></a>
