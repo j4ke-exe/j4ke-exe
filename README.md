@@ -4,8 +4,6 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=j4ke-exe&show_icons=true&theme=none&hide_border=false&cache_seconds=1&locale=en&layout=compact" alt="j4ke-exe" /></p>
 
-<h5 align="center">"Those who work the hardest usually complain the least." -Ryan Cohen</h5>
-
 <p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a>
