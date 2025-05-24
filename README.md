@@ -6,7 +6,7 @@
 
 💻 B.S. Computer Science - Cybersecurity Engineering<br>
 🔒 M.S. Cybersecurity (InfoSec) Student @ Georgia Tech<br>
-🧠 Blogger · CTF Player · Learning Reverse Engineering
+🧠 Blogger | CTF Player | Learning Reverse Engineering
 
 ---
 
