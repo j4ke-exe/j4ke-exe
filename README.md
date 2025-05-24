@@ -2,11 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=a8c0ff&height=200&section=header&text=Hi%20there%20👋%20I'm%20Jake!&fontSize=35&fontColor=3b4252&animation=fadeIn" />
 </p>
 
-### 🧑‍💻 About Me
+<div align="center">
+💻 Computer Science Major  &nbsp;|&nbsp;  🔒 OMSCY Student @ Georgia Tech  &nbsp;|&nbsp;  🧠 InfoSec Blogger
+</div>
 
-💻 B.S. Computer Science - Cybersecurity Engineering<br>
-🔒 M.S. Cybersecurity (InfoSec) Student @ Georgia Tech<br>
-🧠 Blogger | CTF Player | Learning Reverse Engineering
 
 ---
 
