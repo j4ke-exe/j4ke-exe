@@ -4,7 +4,7 @@
 
 ### 🧑‍💻 About Me
 
-💻 B.S. Computer Science - Cybersecurity Engineering
+💻 B.S. Computer Science - Cybersecurity Engineering<br>
 🔒 M.S. Cybersecurity (InfoSec) Student @ Georgia Tech<br>
 🧠 Blogger · CTF Player · Learning Reverse Engineering
 
