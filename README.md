@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-💻 Computer Science Major  &nbsp;|&nbsp;  🔒 OMSCY Student @ Georgia Tech  &nbsp;|&nbsp;  🧠 InfoSec Blogger
+💻 Computer Science Major  &nbsp;|&nbsp;  🔒 MS Cybersecurity (InfoSec) Student @ Georgia Tech  &nbsp;|&nbsp;  🧠 InfoSec Blogger
 </div>
 
 
@@ -24,9 +24,9 @@
 ---
 
 <p align="center">
-  <a href="https://j4ke.io"><img src="https://img.shields.io/badge/Blog-j4ke.io-82aaff?style=for-the-badge" /></a>
-  <a href="https://linkedin.com/in/j4ke"><img src="https://img.shields.io/badge/LinkedIn-j4ke-82aaff?style=for-the-badge" /></a>
-  <a href="mailto:contact@j4ke.io"><img src="https://img.shields.io/badge/Email-contact@j4ke.io-82aaff?style=for-the-badge" /></a>
+  <a href="https://j4ke.io"><img src="https://img.shields.io/badge/Blog-j4ke.io-a8c0ff?style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/j4ke"><img src="https://img.shields.io/badge/LinkedIn-j4ke-a8c0ff?style=for-the-badge" /></a>
+  <a href="mailto:contact@j4ke.io"><img src="https://img.shields.io/badge/Email-contact@j4ke.io-a8c0ff?style=for-the-badge" /></a>
 </p>
 
 <p align="center">
